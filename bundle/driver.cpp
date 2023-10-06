@@ -6,7 +6,7 @@
 
 int main(){
 
-//-----Creates Algo objects which contains items and alogrythms, constuctor takes W
+//-----Creates Algo objects which contains items and alogrithms, constuctor takes W
 Algo a(16);
 Algo b(30);
 Algo c(16);
