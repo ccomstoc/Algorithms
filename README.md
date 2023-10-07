@@ -9,15 +9,8 @@ These algorithms include:
 -Zero one knapsack with dynamic programming
 -Knapsack with backtracking
 -Branch & Bound Best First Knapsack
-The Floyd folder caon
+
+The floyd folder contains only floyds alogrithm
 
 
------Greedy-----
 
------FractionalGreedy-----
-
------Zero-One-DP-----
-
------Backtrack-Knapsack-----
-
------Branch-&-Bound-Best-First-Knapsack-----
