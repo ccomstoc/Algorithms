@@ -2,7 +2,7 @@
 A collection algorithms that I leanred for my algorithms class
 
 The bundle folder contains a program the runs several algorithms and displays the results. 
-Inputs can be found in [driver.cpp](driver.cpp) 
+Inputs can be found in [driver.cpp](bundle/driver.cpp) 
 These algorithms include: 
 -Greedy 
 -Fractional Greedy
