@@ -1,7 +1,7 @@
 # Algorithms
 A collection algorithms I leanred for my algorithms class.
 
-The bundle folder contains a program the runs several algorithms and displays the results. 
+The bundle folder contains a program that runs several algorithms and displays the results. 
 Inputs can be found in [driver.cpp](bundle/driver.cpp), outputs can be found in [Output.txt](bundle/Output.txt).
 These algorithms include: Greedy, Fractional Greedy, Zero one knapsack with dynamic programming, Knapsack with backtracking, Branch & Bound Best First Knapsack.
 
