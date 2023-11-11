@@ -1,12 +1,9 @@
 # Algorithms
-A collection algorithms I leanred for my algorithms class.
 
-The bundle folder contains a program that runs several algorithms and displays the results. 
-Inputs can be found in [driver.cpp](bundle/driver.cpp), outputs can be found in [Output.txt](bundle/Output.txt).
-These algorithms include: Greedy, Fractional Greedy, Zero one knapsack with dynamic programming, Knapsack with backtracking, Branch & Bound Best First Knapsack.
+This project showcases a collection of algorithms I studied during my algorithms class.
 
-The floyd folder contains only floyds alogrithm.
-Inputs can be found in [driver.cpp](floyds/floyd.cpp), outputs can be found in [outTxt.txt](floyds/outTxt.txt).
+Within the "bundle" folder, there is a program that executes various algorithms and displays their outcomes. The input configurations are located in [driver.cpp](bundle/driver.cpp), and the corresponding outputs are documented in [Output.txt](bundle/Output.txt). The list of algorithms includes Greedy, Fractional Greedy, Zero-One Knapsack with dynamic programming, Knapsack with backtracking, and Branch & Bound Best First Knapsack.
 
+The "floyd" folder only contains Floyd's algorithm. The input specifications can be found in [driver.cpp](floyds/floyd.cpp), while the corresponding outputs are documented in [outTxt.txt](floyds/outTxt.txt).
 
 
